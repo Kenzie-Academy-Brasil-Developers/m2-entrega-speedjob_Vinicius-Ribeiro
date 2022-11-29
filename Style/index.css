@@ -136,3 +136,10 @@
         width: 25%;
     }
 }
+
+@media (min-width: 430px) and (max-width: 665px) {
+    .section__1 {
+        width: 40%;
+        height: 20%;
+    }
+}
